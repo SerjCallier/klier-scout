@@ -1,6 +1,6 @@
 # 🗺️ Klier-Scout
 
-![Klier-Scout Viz](file:///C:/Users/Serj/.gemini/antigravity/brain/b5115b3f-bf34-44a0-979c-8ea5ae334bbb/maps_scraper_viz_1773811709203.png)
+![Klier-Scout Viz](./docs/assets/maps_scraper_viz_1773811709203.png)
 
 Automated data pipeline for massive business discovery and digital auditing. A core engine inside the **KlierNav Innovations** lead acquisition ecosystem.
 
