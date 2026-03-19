@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Librería El Ateneo",
+    "address": "Av. Santa Fe 1860",
+    "phone": "011 4813-6052",
+    "rating": 4.8,
+    "user_ratings_total": 25000,
+    "website": "https://www.elateneo.com"
+  },
+  {
+    "Nombre": "Cúspide Libros",
+    "Dirección": "Vicente López 2050",
+    "Teléfono": "011 4803-1234",
+    "Rating": 4.5,
+    "Total_reseñas": 1200,
+    "Sitio_web": "https://www.cuspide.com"
+  }
+]
